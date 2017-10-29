@@ -52,7 +52,7 @@ $(document).ready(function() {
     navigation:     false,
     ignore_accents: false,
     hidden_mode:    false,
-    min_chars:      6
+    min_chars:      2
   });
 
 });
