@@ -1,3 +1,6 @@
+// ----------magnificPopup plugin call and options-----------
+// -------------------------------------------------------------
+
 $(document).ready(function() {
   $('.gallery').magnificPopup({
     type:'image',
@@ -40,6 +43,9 @@ $(document).ready(function() {
 
   });
 });
+
+// ----------Hide and seek plugin call and options-----------
+// -------------------------------------------------------------
 
 $(document).ready(function() {
   $('#search').hideseek({
